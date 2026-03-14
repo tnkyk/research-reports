@@ -1,0 +1,49 @@
+{
+  "currentTask": 1,
+  "totalTasks": 6,
+  "tasks": [
+    {
+      "id": 1,
+      "name": "現代の未解決問題と最新応用",
+      "status": "pending",
+      "file": "20260314_deepdive_01_modern_applications.md",
+      "lastRun": null
+    },
+    {
+      "id": 2,
+      "name": "科学革命の社会的・経済的背景",
+      "status": "pending",
+      "file": "20260314_deepdive_02_social_context.md",
+      "lastRun": null
+    },
+    {
+      "id": 3,
+      "name": "見過ごされてきた貢献者たち",
+      "status": "pending",
+      "file": "20260314_deepdive_03_overlooked_contributors.md",
+      "lastRun": null
+    },
+    {
+      "id": 4,
+      "name": "物理学の誤りと科学者の失敗",
+      "status": "pending",
+      "file": "20260314_deepdive_04_mistakes_lessons.md",
+      "lastRun": null
+    },
+    {
+      "id": 5,
+      "name": "教育学への応用",
+      "status": "pending",
+      "file": "20260314_deepdive_05_education.md",
+      "lastRun": null
+    },
+    {
+      "id": 6,
+      "name": "量子重力理論の最新動向",
+      "status": "pending",
+      "file": "20260314_deepdive_06_quantum_gravity.md",
+      "lastRun": null
+    }
+  ],
+  "baseReport": "https://github.com/tnkyk/research-reports/blob/master/reports/history/2026/03/20260314_history_physics_discoveries.md"
+}
